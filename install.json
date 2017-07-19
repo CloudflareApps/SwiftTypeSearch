@@ -1,0 +1,20 @@
+{
+  "resources": {
+    "body": [
+      {
+        "type": "script",
+        "src": "./source/app.js"
+      }
+    ]
+  },
+  "options": {
+    "properties": {
+      "engine_key": {
+        "title": "Engine key",
+        "placeholder": "abc123zsfXLxEV8XWMVe",
+        "type": "string",
+        "order": 0
+      }
+    }
+  }
+}
